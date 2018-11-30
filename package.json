@@ -6,5 +6,8 @@
     "email": "juan.mordan@gmail.com",
     "name": "juan carlos mordan",
     "url": "https://github.com/jcmordan"
-  }  
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
 }
